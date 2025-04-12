@@ -1,4 +1,4 @@
-#'webverse' in your terminal?
+# 'webverse' in your terminal
 ## Create your personalized NPX introduction card
 
 ### Step 1: Select a Unique Package Name
