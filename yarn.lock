@@ -1,0 +1,14 @@
+chalk@^5.3.0:
+  version "5.3.0"
+  resolved "https://registry.yarnpkg.com/chalk/-/chalk-5.3.0.tgz#123456abcdef..."
+  integrity sha512-abc123...
+  engines:
+    node ">=14"
+
+ora@^8.0.1:
+  version "8.0.1"
+  resolved "https://registry.yarnpkg.com/ora/-/ora-8.0.1.tgz#789xyz..."
+  integrity sha512-def456...
+  dependencies:
+    cli-spinners "^2.9.2"
+    chalk "^5.0.0"
